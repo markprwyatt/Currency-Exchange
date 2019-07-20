@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,KACE,wBAAkC,CAClC,gCAAoC,CACpC,eAAgB,CAChB,QAAS,CACT,SAAU,CACV,UACF","file":"main.34b0f426.chunk.css","sourcesContent":["body {\n  background-color: rgb(22, 79, 126);\n  font-family: \"Noto Sans\", sans-serif;\n  font-size: 67.5%;\n  margin: 0;\n  padding: 0;\n  color: #fff;\n}\n"]}
